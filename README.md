@@ -32,12 +32,12 @@ Solidity, Rust, Go, Clarity, Python, Move
 
 ## Audit Competition Results 🏅
 
-| Contest | Findings | Platform | Category | Language |
-|---------|----------|----------|----------|----------|
-| [Zetachain](https://cantina.xyz/code/80a33cf0-ad69-4163-a269-d27756aacb5e/overview) | 1H, 1M | Cantina | L2 solana | Rust |
-| [GOAT Tech](https://cantina.xyz/code/f214cf86-cc80-40c0-a70b-e9bb25d7ac80/overview) | 1M (solo) | Cantina | Staking | Solidity |
-| [Blackhole](https://code4rena.com/audits/2025-05-blackhole) | 1H, 1M | C4 | Solana DeFi | Solidity |
-| **Total** | **3H, 3M** | | | |
+| Contest | Description | Findings | Platform | Category | Language |
+|---------|----------|----------|----------|----------|----------|
+| [Zetachain](https://cantina.xyz/code/80a33cf0-ad69-4163-a269-d27756aacb5e/overview) | ZetaChain is a L1 EVM compatible blockchain focused on connecting blockchains. | 1H, 1M | Cantina | L2 solana | Rust |
+| [GOAT Tech](https://cantina.xyz/code/f214cf86-cc80-40c0-a70b-e9bb25d7ac80/overview) | Goat.Tech is a social-financial game, where users play by mainly staking ETH | 1M (solo) | Cantina | Staking | Solidity |
+| [Blackhole](https://code4rena.com/audits/2025-05-blackhole) | The central trading and liquidity hub on AVALANCHE | 1H, 1M | C4 | Solana DeFi | Solidity |
+| **Total** | **3H, 3M** | | | | |
 
 ## Private Audit Engagements
 
