@@ -14,13 +14,7 @@ We provide top-tier security audits for blockchain and DeFi protocols across dif
 
 ### Languages We Work With:
 
-- Solidity
-- Rust
-- Go
-- Clarity
-- Python
-- Move
-- Vyper
+Solidity, Rust, Go, Clarity, Python, Move, Vyper
 
 ## Our Track Record
 
