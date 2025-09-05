@@ -27,8 +27,8 @@ Solidity, Rust, Go, Clarity, Python, Move, Vyper
 
 ## Founding Security Researchers
 
-- [**kenzo**](https://cantina.xyz/u/tenma)
-- [**yashar**](https://cantina.xyz/u/yashar)
+- [**kenzo**](https://x.com/kenzowhitehat)
+- [**yashar**](https://x.com/yashar0x)
 
 * * *
 
@@ -49,7 +49,7 @@ Solidity, Rust, Go, Clarity, Python, Move, Vyper
 
 | Date | Protocol | Findings |     | Category | Scope | Report |
 | --- | --- | --- | --- | --- | --- | --- |
-| 02/2025 | [DeFi Aggregator Eta](https://x.com/defieta) | 1H, 2M, 3L |     | DEX Aggregator | Routing and execution | [Report](https://github.com/ShredSecurity/audits/blob/main/2025-02-defi-aggregator-eta.pdf) |
+| 02/2025 | [DeFi Aggregator Eta](https://x.com/defieta) | 1H, 2M, 3L |     | DEX Aggregator | Routing and execution | [Private] |
 | **Total** |     | **10H, 19M** |     |     |     |     |
 
 ## Bug Bounties
