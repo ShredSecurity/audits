@@ -64,8 +64,8 @@ Solidity, Rust, Go, Clarity, Python, Move, Vyper
 
 | Date | Protocol | Findings | Category | Scope | Report |
 | --- | --- | --- | --- | --- | --- |
-| 02/2025 | [DeFi Aggregator Eta](https://x.com/defieta) | 1H, 2M, 3L | DEX Aggregator | Routing and execution | [Private] |
-| **Total** |     | **10H, 19M** |     |     |     |     
+| 02/2025 | Gigchain | 1H, 2M, 3L | Decentralized Freelancing Platform | Accounts and Payments | [Private] |
+| **Total** |     | **1H, 2M** |     |     |     |     
 
 ## Bug Bounties
 
