@@ -41,24 +41,31 @@ Solidity, Rust, Go, Clarity, Python, Move, Vyper
 
 | Contest | Description | Findings | Platform | Category | Language | Rewards |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Ramses Exchange](https://code4rena.com/audits/2024-10-ramses-exchange) | Top 5 finish with 1/2 findings | 1M | C4| DEX | Solidity | 3,781 USDC
-| [Superpostion](https://code4rena.com/audits/2024-08-superposition) | 6th position with a solo medium findings | 2H, 3M(1 solo) | C4 | Uniswap v3 clone | Rust | 2,117 USDC
 | [Concrete](https://code4rena.com/audits/2024-11-concrete) | Top 3 finish with 14 total H/M findings | 5H, 9H | C4 | The DeFi Liquidity Metalayer | Solidity | 5,750.04 USDC
 | [Infrared](https://cantina.xyz/code/ac5f64e6-3bf2-4269-bbb0-4bcd70425a1d/overview/leaderboard) | Infrared Finance is a BERA liquid staking protocol which utilizes proof of liquidity to maximize yields. | 1H, 2M | Cantina | Liquid Staking | Solidity | 7,604 USDC |
+| [Ramses Exchange](https://code4rena.com/audits/2024-10-ramses-exchange) | Top 5 finish with 1/2 findings | 1M | C4| DEX | Solidity | 3,781 USDC |
+|[Liquid Ron](https://code4rena.com/audits/2025-01-liquid-ron)| Top 10 finish | 1H, 2M | C4 | Staking | Solidity | 3,025.07 USDC |
+| [Superpostion](https://code4rena.com/audits/2024-08-superposition) | 6th position with a solo medium findings | 2H, 3M(1 solo) | C4 | Uniswap v3 clone | Rust | 2,117 USDC
 | [OpenDollar](https://code4rena.com/audits/2023-10-open-dollar) | Top-3 at Open Dollar competition with a solo finding | 3M (1 Solo) | C4  | DeFi | Solidity | 2,468 USDC |
+|[Native Smart Contracts V2 ](https://audits.sherlock.xyz/contests/971)| Native is an on-chain platform to build token liquidity that is openly accessible and cost effective. |Private | Sherlock | Defi | Solidity | 1,741.07 USDC |
+|[Chainlink Payment Abstraction](https://code4rena.com/audits/2024-12-chainlink-payment-abstraction) | Top 3 finish | 1 M | C4 | Billing System | Solidity | 1,987.07 USDC | 
 | [MakerDAO](https://audits.sherlock.xyz/contests/333) | One of the 3 researchers who could find a bug in MakerDAO codebase | 1M  | Sherlock | DeFi | Solidity |  230 USDC | 
 | [Space & Time](https://cantina.xyz/competitions/3cc30b66-1cba-4044-968f-a0817cd7bf83) | Top-10 at Space and Time competition with a solo finding | 3M (1 Solo) | Cantina | Blockchain | Rust | 3,900 USDC |
-| [Zetachain](https://cantina.xyz/code/80a33cf0-ad69-4163-a269-d27756aacb5e/overview) | ZetaChain is a L1 EVM compatible blockchain focused on connecting blockchains. | 1H, 1M | Cantina | L2 solana | Rust | 1,514 USDC
-| [GOAT Tech](https://cantina.xyz/code/f214cf86-cc80-40c0-a70b-e9bb25d7ac80/overview) | Goat.Tech is a social-financial game, where users play by mainly staking ETH | 1M (solo) | Cantina | Staking | Solidity | 1,247 USDC
-| [Blackhole](https://code4rena.com/audits/2025-05-blackhole) | The central trading and liquidity hub on AVALANCHE | 1H, 1M | C4  | Solana DeFi | Solidity | 
-| **Total** | **3H, 11M** |     |     |     |     |
+| [Zetachain](https://cantina.xyz/code/80a33cf0-ad69-4163-a269-d27756aacb5e/overview) | ZetaChain is a L1 EVM compatible blockchain focused on connecting blockchains. | 1H, 1M | Cantina | L2 solana | Rust | 1,514 USDC |
+| [GOAT Tech](https://cantina.xyz/code/f214cf86-cc80-40c0-a70b-e9bb25d7ac80/overview) | Goat.Tech is a social-financial game, where users play by mainly staking ETH | 1M (solo) | Cantina | Staking | Solidity | 1,247 USDC |
+|[Royco Protocol ](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602)|Royco Protocol allows anyone to create a market around any onchain transaction |1H, 2M| Cantina | Permissionless Market | Solidity | 990.45 USDC |
+|[Starknet](https://codehawks.cyfrin.io/c/2024-09-starknet-staking/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) | Starknet is a Validity Rollup that provides unlimited scale while retaining Ethereum's security and decentralization. |Private |Codehawks | Layer 2 | Cairo |913.12 USDC|
+| [Zksync Era](https://code4rena.com/audits/2024-03-zksync-era) | zkSync Era is a fully-fledged Layer-2 scaling solution that enhances Ethereum's scalability and efficiency.| 1M | C4 | Layer2 | Solidity | 565 USDC |
+|[Beanstalk](https://codehawks.cyfrin.io/c/2024-05-beanstalk-the-finale)| Beanstalk is a permissionless fiat stablecoin protocol built on Ethereum| 1H | Codehawks | Stable Coin| Soldity | 530.78 USDC |
+| [Blackhole](https://code4rena.com/audits/2025-05-blackhole) | The central trading and liquidity hub on AVALANCHE | 1H, 1M | C4  | DeFi | Solidity | 49 USDC
+| **Total** | **13H, 31M** |  **Total Earning: 37,908.60 USDC** |     |     |     |
 
 ## Private Audit Engagements
 
-| Date | Protocol | Findings |     | Category | Scope | Report |
-| --- | --- | --- | --- | --- | --- | --- |
-| 02/2025 | [DeFi Aggregator Eta](https://x.com/defieta) | 1H, 2M, 3L |     | DEX Aggregator | Routing and execution | [Private] |
-| **Total** |     | **10H, 19M** |     |     |     |     |
+| Date | Protocol | Findings | Category | Scope | Report |
+| --- | --- | --- | --- | --- | --- |
+| 02/2025 | [DeFi Aggregator Eta](https://x.com/defieta) | 1H, 2M, 3L | DEX Aggregator | Routing and execution | [Private] |
+| **Total** |     | **10H, 19M** |     |     |     |     
 
 ## Bug Bounties
 
