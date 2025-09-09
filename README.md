@@ -41,12 +41,13 @@ Solidity, Rust, Go, Clarity, Python, Move, Vyper
 
 | Contest | Description | Findings | Platform | Category | Language | Rewards |
 | --- | --- | --- | --- | --- | --- | --- |
-| Concrete | 6th position with a solo medium findings | 2H, 3M(1 solo) | C4 | Uniswap v3 clone | Rust | 2,117 USDC
-| Concrete | Top 3 finish with 14 total H/M findings | 5H, 9H | C4 | The DeFi Liquidity Metalayer | Solidity | 5,750.04 USDC
-| OpenDollar | Top-3 at Open Dollar competition with a solo finding | 3M (1 Solo) | C4  | DeFi | Solidity |
-| MakerDAO | One of the 3 researchers who could find a bug in MakerDAO codebase | 1M  | Sherlock | DeFi | Solidity |
-| Space & Time | Top-10 at Space and Time competition with a solo finding | 3M (1 Solo) | Cantina | Blockchain | Rust |
-| Infrared | Infrared Finance is a BERA liquid staking protocol which utilizes proof of liquidity to maximize yields. | 1H, 2M | Cantina | Liquid Staking | Solidity |
+| [Ramses Exchange](https://code4rena.com/audits/2024-10-ramses-exchange) | Top 5 finish with 1/2 findings | 1M | C4| DEX | Solidity | 3, 781 USDC
+| [Superpostion](https://code4rena.com/audits/2024-08-superposition) | 6th position with a solo medium findings | 2H, 3M(1 solo) | C4 | Uniswap v3 clone | Rust | 2,117 USDC
+| [Concrete](https://code4rena.com/audits/2024-11-concrete) | Top 3 finish with 14 total H/M findings | 5H, 9H | C4 | The DeFi Liquidity Metalayer | Solidity | 5,750.04 USDC
+| [Infrared]() | Infrared Finance is a BERA liquid staking protocol which utilizes proof of liquidity to maximize yields. | 1H, 2M | Cantina | Liquid Staking | Solidity |
+| [OpenDollar]() | Top-3 at Open Dollar competition with a solo finding | 3M (1 Solo) | C4  | DeFi | Solidity |
+| [MakerDAO]() | One of the 3 researchers who could find a bug in MakerDAO codebase | 1M  | Sherlock | DeFi | Solidity |
+| [Space & Time]() | Top-10 at Space and Time competition with a solo finding | 3M (1 Solo) | Cantina | Blockchain | Rust |
 | [Zetachain](https://cantina.xyz/code/80a33cf0-ad69-4163-a269-d27756aacb5e/overview) | ZetaChain is a L1 EVM compatible blockchain focused on connecting blockchains. | 1H, 1M | Cantina | L2 solana | Rust |
 | [GOAT Tech](https://cantina.xyz/code/f214cf86-cc80-40c0-a70b-e9bb25d7ac80/overview) | Goat.Tech is a social-financial game, where users play by mainly staking ETH | 1M (solo) | Cantina | Staking | Solidity |
 | [Blackhole](https://code4rena.com/audits/2025-05-blackhole) | The central trading and liquidity hub on AVALANCHE | 1H, 1M | C4  | Solana DeFi | Solidity |
