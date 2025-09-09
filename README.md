@@ -41,6 +41,7 @@ Solidity, Rust, Go, Clarity, Python, Move, Vyper
 
 | Contest | Description | Findings | Platform | Category | Language |
 | --- | --- | --- | --- | --- | --- |
+| Concrete | Top 3 finish with 14 total H/M findings | 5H, 9H | C4 | The DeFi Liquidity Metalayer | Solidity
 | OpenDollar | Top-3 at Open Dollar competition with a solo finding | 3M (1 Solo) | C4  | DeFi | Solidity |
 | MakerDAO | One of the 3 researchers who could find a bug in MakerDAO codebase | 1M  | Sherlock | DeFi | Solidity |
 | Space & Time | Top-10 at Space and Time competition with a solo finding | 3M (1 Solo) | Cantina | Blockchain | Rust |
