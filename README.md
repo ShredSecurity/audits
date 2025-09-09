@@ -39,9 +39,10 @@ Solidity, Rust, Go, Clarity, Python, Move, Vyper
 
 ## Audit Competition Results
 
-| Contest | Description | Findings | Platform | Category | Language |
-| --- | --- | --- | --- | --- | --- |
-| Concrete | Top 3 finish with 14 total H/M findings | 5H, 9H | C4 | The DeFi Liquidity Metalayer | Solidity
+| Contest | Description | Findings | Platform | Category | Language | Rewards |
+| --- | --- | --- | --- | --- | --- | --- |
+| Concrete | 6th position with a solo medium findings | 2H, 3M(1 solo) | C4 | Uniswap v3 clone | Rust | 2,117 USDC
+| Concrete | Top 3 finish with 14 total H/M findings | 5H, 9H | C4 | The DeFi Liquidity Metalayer | Solidity | 5,750.04 USDC
 | OpenDollar | Top-3 at Open Dollar competition with a solo finding | 3M (1 Solo) | C4  | DeFi | Solidity |
 | MakerDAO | One of the 3 researchers who could find a bug in MakerDAO codebase | 1M  | Sherlock | DeFi | Solidity |
 | Space & Time | Top-10 at Space and Time competition with a solo finding | 3M (1 Solo) | Cantina | Blockchain | Rust |
