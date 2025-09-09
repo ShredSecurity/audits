@@ -41,7 +41,7 @@ Solidity, Rust, Go, Clarity, Python, Move, Vyper
 
 | Contest | Description | Findings | Platform | Category | Language | Rewards |
 | --- | --- | --- | --- | --- | --- | --- |
-| [MakerDAO](https://audits.sherlock.xyz/contests/333) | One of the 3 researchers who could find a bug in MakerDAO codebase | 1M  | Sherlock | DeFi | Solidity |  10230 USDC |
+| [MakerDAO](https://audits.sherlock.xyz/contests/333) | One of the 3 researchers who could find a bug in MakerDAO codebase | 1M  | Sherlock | DeFi | Solidity |  10,230 USDC |
 | [Concrete](https://code4rena.com/audits/2024-11-concrete) | Top 3 finish with 14 total H/M findings | 5H, 9H | C4 | The DeFi Liquidity Metalayer | Solidity | 5,750.04 USDC
 | [Infrared](https://cantina.xyz/code/ac5f64e6-3bf2-4269-bbb0-4bcd70425a1d/overview/leaderboard) | Infrared Finance is a BERA liquid staking protocol which utilizes proof of liquidity to maximize yields. | 1H, 2M | Cantina | Liquid Staking | Solidity | 7,604 USDC |
 | [Ramses Exchange](https://code4rena.com/audits/2024-10-ramses-exchange) | Top 5 finish with 1/2 findings | 1M | C4| DEX | Solidity | 3,781 USDC |
