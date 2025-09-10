@@ -2,17 +2,17 @@
 
 ## About Us
 
-We provide top-tier security audits for blockchain and DeFi protocols across different chains. Our audits consistently uncover high-impact vulnerabilities missed by others, backed by a proven track record of top competition placements and security partnerships with leading protocols.
+We provide high quality security audits for blockchain and DeFi protocols across different chains. Our audits consistently uncover high-impact vulnerabilities missed by others, backed by a proven track record of top competition placements and security partnerships with leading protocols.
 
 ### Specializations
 
-- DeFi Protocols
-- Cross-chain And L2 Protocols
-- Blockchain/DLT
+- DeFi Protocols: Lending, Staking, Stablecoins, AMMs, Perps
+- Cross-chain: Bridges, Crosschain messaging 
+- Blockchain/DLT: Cosmos, Layer 1, Layer 2, OP stack, Soroban
 - NFT & Gaming
 - DAO & Governance
 
-### Languages We Work With:
+### Languages We Audit:
 
 Solidity, Rust, Go, Clarity, Python, Move, Vyper
 
