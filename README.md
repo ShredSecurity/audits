@@ -6,9 +6,9 @@ We provide high quality security audits for blockchain and DeFi protocols across
 
 ### Specializations
 
-- DeFi Protocols: Lending, Staking, Stablecoins, AMMs, Perps
-- Cross-chain: Bridges, Crosschain messaging 
-- Blockchain/DLT: Cosmos, Layer 1, Layer 2, OP stack, Soroban
+- DeFi Protocols: Lending, Staking, Stablecoins, AMMs, Perps etc.
+- Cross-chain: Bridges, Crosschain messaging etc.
+- Blockchain/DLT: Cosmos, Layer 1, Layer 2, OP stack, Soroban etc.
 - NFT & Gaming
 - DAO & Governance
 
