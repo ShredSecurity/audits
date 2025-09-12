@@ -7,14 +7,14 @@ We provide high quality security audits for blockchain and DeFi protocols across
 ### Specializations
 
 - DeFi Protocols: Lending, Staking, Stablecoins, AMMs, Perps etc.
-- Cross-chain: Bridges, Crosschain messaging etc.
+- Cross-chain: Bridges, Crosschain messaging, Cross-chain Apps etc.
 - Blockchain/DLT: Cosmos, Layer 1, Layer 2, OP stack, Soroban etc.
 - NFT & Gaming
 - DAO & Governance
 
 ### Languages We Audit:
 
-Solidity, Rust, Go, Clarity, Python, Move, Vyper
+Solidity, Rust(Solana, Soroban etc), Go, Clarity, Python, Move(Sui Aptos), Vyper
 
 ## Our Track Record
 
@@ -24,8 +24,8 @@ Solidity, Rust, Go, Clarity, Python, Move, Vyper
 - 🤝 Trusted by leading blockchain protocols and DAOs across multiple chains
 
 * * *
-
-## Founding Security Researchers
+### The Team
+#### Founding Security Researchers
 
 - [**kenzo**](https://x.com/kenzowhitehat)
 - [**yashar**](https://x.com/yashar0x)
