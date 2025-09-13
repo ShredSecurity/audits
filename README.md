@@ -16,10 +16,10 @@ Solidity, Rust(Solana, Soroban etc), Go, Clarity, Python, Move(Sui Aptos), Vyper
 
 ## Our Track Record
 
-- 🥇 Multiple Top-3, Top-10 places in public competitions
-- 💎 Multiple solo findings that other researchers missed
-- 🐛 Multiple bug bounties in Immunefi and private engagements
-- 🤝 Trusted by leading blockchain protocols and DAOs across multiple chains
+-  Multiple Top-3, Top-10 places in public competitions
+-  Multiple solo findings that other researchers missed
+-  Multiple bug bounties in Immunefi and private engagements
+-  Trusted by leading blockchain protocols and DAOs across multiple chains
 
 * * *
 ### The Team
