@@ -42,7 +42,7 @@ Solidity, Rust(Solana, Soroban etc), Go, Clarity, Python, Move(Sui Aptos), Vyper
 
 | Date | Protocol | Findings | Category | Scope | Report |
 | --- | --- | --- | --- | --- | --- |
-| 09/2025 | Stakep2p | 2H, 7M, 8L | Defi, On-chain Betting | Staking Vault |[Report]() |
+| 09/2025 | Stakep2p | 2H, 7M, 8L | Defi, On-chain Betting | Staking Vault |[Report](https://github.com/ShredSecurity/audits/blob/main/private_reviews/stakep2p-shredsecurity-29Sept.pdf) |
 | 06/2025 | Gigchain | 1H, 2M, 3L | Decentralized Freelancing Platform | Accounts and Payments | [Private] |
 | **Total** |     | **4H, 8M** |     |     |     |     
 
