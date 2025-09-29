@@ -38,6 +38,14 @@ Solidity, Rust(Solana, Soroban etc), Go, Clarity, Python, Move(Sui Aptos), Vyper
 * * *
 
 
+## Private Audit Engagements
+
+| Date | Protocol | Findings | Category | Scope | Report |
+| --- | --- | --- | --- | --- | --- |
+| 09/2025 | Stakep2p | 2H, 7M, 8L | Defi, On-chain Betting | Staking Vault |[Report]() |
+| 06/2025 | Gigchain | 1H, 2M, 3L | Decentralized Freelancing Platform | Accounts and Payments | [Private] |
+| **Total** |     | **4H, 8M** |     |     |     |     
+
 
 ## Audit Competition Results
 
@@ -62,12 +70,6 @@ Solidity, Rust(Solana, Soroban etc), Go, Clarity, Python, Move(Sui Aptos), Vyper
 | [Blackhole](https://code4rena.com/audits/2025-05-blackhole) | The central trading and liquidity hub on AVALANCHE | 1H, 1M | C4  | DeFi | Solidity | 49 USDC
 | **Total** | **13H, 31M** |  **Total Earning: 47,908.60 USDC** |     |     |     |
 
-## Private Audit Engagements
-
-| Date | Protocol | Findings | Category | Scope | Report |
-| --- | --- | --- | --- | --- | --- |
-| 02/2025 | Gigchain | 1H, 2M, 3L | Decentralized Freelancing Platform | Accounts and Payments | [Private] |
-| **Total** |     | **1H, 2M** |     |     |     |     
 
 ## Bug Bounties
 
