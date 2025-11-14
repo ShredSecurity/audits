@@ -29,7 +29,7 @@ Solidity, Rust(Solana, Soroban etc), Go, Clarity, Python, Move(Sui Aptos), Vyper
 - [**yashar**](https://x.com/yashar0x)
 
 #### Lead Security Researchers
-- [**0xrex (Head of Security**](https://x.com/jvorex_)
+- [**0xrex (Head of Security)**](https://x.com/jvorex_)
 - [**chupinexx (Head of Business)**](https://x.com/chupinexx)
 
 
