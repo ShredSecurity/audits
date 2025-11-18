@@ -23,7 +23,7 @@ Solidity, Rust(Solana, Soroban etc), Go, Clarity, Python, Move(Sui Aptos), Vyper
 
 * * *
 ### The Team
-#### Founding Researchers
+#### Co-founders
 
 - [**kenzo**](https://x.com/kenzowhitehat)
 - [**yashar**](https://x.com/yashar0x)
